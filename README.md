@@ -11,40 +11,44 @@ My work includes SaaS platforms, AI systems with RAG, Chrome extensions, and sca
 ## 🚀 Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,nodejs,postgres,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,postgres,tailwind,docker,git" />
 </p>
 
-AI & Systems  
-RAG Systems • AI-powered Web Applications • Chrome Extensions
+<p align="left">
+  AI & Systems: RAG Systems • AI-powered Web Applications • Chrome Extensions
+</p>
 
 ---
 
 ## 🧠 Featured Projects
 
 **WizLayer**  
-AI writing assistant built as a Chrome Extension and web application.
+AI writing and content assistant built as a Chrome Extension and web application.
 
 **Wibbot**  
-AI-powered live chat and customer engagement platform with RAG responses.
+AI-powered live chat and customer engagement platform with real-time messaging and RAG-based responses.
 
 **TrustSync**  
-Cross-platform personal finance and accounting desktop application built with C#.
+Cross-platform personal finance and accounting desktop application built with C# and Avalonia UI.
 
 **Buildora**  
-Drag-and-drop SaaS website builder for modern responsive websites.
+Drag-and-drop SaaS website builder designed for creating modern responsive websites.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Yousif&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Yousif&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Yousif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Yousif&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Dev-Yousif&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 </p>
 
 ---
 
 ## 🤝 Connect
 
-LinkedIn  
-Email
+[LinkedIn](#) • [Email](mailto:your@email.com)
