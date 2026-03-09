@@ -1,4 +1,4 @@
-<div align="start">
+
 
 ```                                                                                                                                                                                                
 ████████▄     ▄████████  ▄█    █▄            ▄██   ▄    ▄██████▄  ███    █▄     ▄████████  ▄█     ▄████████ 
@@ -18,8 +18,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousif-abdul-muti-101b273a8)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yousifabdulmuti@gmail.com)
-
-</div>
 
 ---
 
